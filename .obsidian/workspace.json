@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "2c7e1700a3987eb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebaac56a7f6f4bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e2362b453884f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "服务端/Nginx/正向代理与反向代理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92952ffd0324ac2b",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4656a313962408a",
+    "type": "split",
+    "children": [
+      {
+        "id": "95bc479c1df2335f",
+        "type": "tabs",
+        "dimension": 33.7037037037037,
+        "children": [
+          {
+            "id": "da8d9f0e547e3b8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#排序",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8615c18bc5fc6b5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "28260e144a07d0a1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8c26275aa8ad424",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d2807764ccb3e23a",
+        "type": "tabs",
+        "dimension": 66.2962962962963,
+        "children": [
+          {
+            "id": "931b6c1251bccc30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "668fc77a0c877e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bdfcd19161d0deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd37b426c2099fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "服务端/Nginx/正向代理与反向代理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29d1b22b0f9f46e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "服务端/Nginx/正向代理与反向代理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "126aaabf838c562b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3d622cdde0f09ce8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "服务端/Nginx/正向代理与反向代理.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "periodic-para:LifeOS": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "e6e2362b453884f3",
+  "lastOpenFiles": [
+    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806222750648.png",
+    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806222453170.png",
+    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806222153046.png",
+    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806221801420.png",
+    "服务端/Nginx/Assets/正向代理与反向代理",
+    "服务端/Nginx/Assets",
+    "工程化/Git/git rebase 实用技巧.md",
+    "服务端/Nginx/正向代理与反向代理.md",
+    "工程化/Docker",
+    "服务端/未命名",
+    "服务端/Nginx",
+    "工程化/Git/Assets/git rebase 实用技巧/image-20240806214911221.png",
+    "工程化/Git/Assets/git rebase 实用技巧/image-20240806214155088.png",
+    "工程化/Git/Assets/git rebase 实用技巧/image-20240806213820254.png",
+    "工程化/Git/Assets/git rebase 实用技巧",
+    "工程化/Git/Assets",
+    "STUDY/JavaScript/什么是原型链.md",
+    "工程化/Git",
+    "STUDY/JavaScript/Assets/什么是原型链/image-20240806184613277.png",
+    "STUDY/JavaScript/Assets/什么是原型链",
+    "STUDY/JavaScript/Assets",
+    "工程化/Webpack/Webpack 配置学习笔记/exports.md",
+    "工程化/Webpack/Webpack 的模块解析规则.md",
+    "工程化/Webpack/未命名.md",
+    "Vue/Vue 完整版与 Runtime 运行时版本区别？.md",
+    "工程化/Webpack/Webpack 配置学习笔记/resolve.alias.md",
+    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之 externals.md",
+    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之【output.publicPath】.md",
+    "我的简历/我的简历.md",
+    "面试相关/我的简历.md",
+    "Vue/Vue2 与 Vue3 有什么区别.md",
+    "Vue/Vue Router 之 params 导航参数.md",
+    "Vue/实现一个简单的 Vue2 数据响应式.md",
+    "Vue/Object.defineProperty 与 Proxy 的对比.md",
+    "Vue/从 Vue 中再次学习原型式继承.md",
+    "Vue/Assets/Object.defineProperty 与 Proxy 的对比/image-20240806155652411.png",
+    "Vue/Assets/Object.defineProperty 与 Proxy 的对比/image-20240806155539257.png",
+    "Vue/Vue3/Vue3【API】响应式-进阶 API 解析.md",
+    "Vue/Vue3/Vue3 【API】响应式-工具 API 解析.md",
+    "Vue/Vue3/Vue3 中 ref 的实现原理.md",
+    "Vue/Vue3/Vue3 中 watch 的执行时机详解.md",
+    "Vue/Vue3/Vue3 中 watch 与 watchEffect 有什么区别？.md",
+    "Vue/Vue3/Assets/Vue3 【API】响应式-工具 API 解析/image-20240806145007781.png",
+    "面试相关/项目经历 - 售后项目.md",
+    "面试相关/项目经历 - NestJS 开发 BFF.md",
+    "面试相关/项目经历-AI聊天项目.md",
+    "关于优化/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9461048dfc7d81fe","x":-520,"y":-200,"width":229,"height":100,"type":"text","text":"\n客户端输入 URL 并回车"},
+		{"id":"f0383b2e04e0fbc7","x":-60,"y":-200,"width":329,"height":103,"type":"text","text":"浏览器解析 URL 并进行 DNS 查询"}
+	],
+	"edges":[
+		{"id":"bb6cecb4e9b3a391","fromNode":"9461048dfc7d81fe","fromSide":"right","toNode":"f0383b2e04e0fbc7","toSide":"left"}
+	]
+}

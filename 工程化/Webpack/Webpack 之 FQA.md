@@ -10,8 +10,8 @@
 
 **bundle**：`bundle` 是打包后的最后产物 `Asset`，也就是打包后的文件资源
 
-> 1、 chunk 是过程代码块，而 bundle 是结果代码块
-> 2、 chunk 与 bundle 并不是一一对应的关系。
+> 1、 <mark style="background: #BBFABBA6;">chunk 是过程代码块，而 bundle 是结果代码块</mark>
+> 2、<mark style="background: #BBFABBA6;"> chunk 与 bundle 并不是一一对应的关系。</mark>
 
 ![[Pasted image 20240723100600.png]]
 

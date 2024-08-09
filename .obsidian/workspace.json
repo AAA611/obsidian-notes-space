@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebaac56a7f6f4bc",
+        "id": "0b233d059a64762e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e2362b453884f3",
+            "id": "d20bcb1c72775efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务端/Nginx/正向代理与反向代理.md",
+                "file": "服务端/Nginx/Nginx 常用配置学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92952ffd0324ac2b",
+            "id": "30a3481c3bf15957",
             "type": "leaf",
             "state": {
-              "type": "card-board-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "工程化/Docker/问题/问题收集.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务端/Nginx/正向代理与反向代理.md",
+                "file": "工程化/Docker/问题/问题收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "服务端/Nginx/正向代理与反向代理.md",
+                "file": "工程化/Docker/问题/问题收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务端/Nginx/正向代理与反向代理.md"
+                "file": "工程化/Docker/问题/问题收集.md"
               }
             }
           }
@@ -185,54 +190,54 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e6e2362b453884f3",
+  "active": "30a3481c3bf15957",
   "lastOpenFiles": [
-    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806222750648.png",
-    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806222453170.png",
-    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806222153046.png",
-    "服务端/Nginx/Assets/正向代理与反向代理/image-20240806221801420.png",
-    "服务端/Nginx/Assets/正向代理与反向代理",
-    "服务端/Nginx/Assets",
-    "工程化/Git/git rebase 实用技巧.md",
-    "服务端/Nginx/正向代理与反向代理.md",
-    "工程化/Docker",
-    "服务端/未命名",
-    "服务端/Nginx",
-    "工程化/Git/Assets/git rebase 实用技巧/image-20240806214911221.png",
-    "工程化/Git/Assets/git rebase 实用技巧/image-20240806214155088.png",
-    "工程化/Git/Assets/git rebase 实用技巧/image-20240806213820254.png",
-    "工程化/Git/Assets/git rebase 实用技巧",
-    "工程化/Git/Assets",
-    "STUDY/JavaScript/什么是原型链.md",
-    "工程化/Git",
-    "STUDY/JavaScript/Assets/什么是原型链/image-20240806184613277.png",
-    "STUDY/JavaScript/Assets/什么是原型链",
-    "STUDY/JavaScript/Assets",
-    "工程化/Webpack/Webpack 配置学习笔记/exports.md",
-    "工程化/Webpack/Webpack 的模块解析规则.md",
-    "工程化/Webpack/未命名.md",
-    "Vue/Vue 完整版与 Runtime 运行时版本区别？.md",
-    "工程化/Webpack/Webpack 配置学习笔记/resolve.alias.md",
-    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之 externals.md",
-    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之【output.publicPath】.md",
-    "我的简历/我的简历.md",
-    "面试相关/我的简历.md",
-    "Vue/Vue2 与 Vue3 有什么区别.md",
-    "Vue/Vue Router 之 params 导航参数.md",
-    "Vue/实现一个简单的 Vue2 数据响应式.md",
-    "Vue/Object.defineProperty 与 Proxy 的对比.md",
-    "Vue/从 Vue 中再次学习原型式继承.md",
-    "Vue/Assets/Object.defineProperty 与 Proxy 的对比/image-20240806155652411.png",
-    "Vue/Assets/Object.defineProperty 与 Proxy 的对比/image-20240806155539257.png",
-    "Vue/Vue3/Vue3【API】响应式-进阶 API 解析.md",
-    "Vue/Vue3/Vue3 【API】响应式-工具 API 解析.md",
-    "Vue/Vue3/Vue3 中 ref 的实现原理.md",
-    "Vue/Vue3/Vue3 中 watch 的执行时机详解.md",
-    "Vue/Vue3/Vue3 中 watch 与 watchEffect 有什么区别？.md",
-    "Vue/Vue3/Assets/Vue3 【API】响应式-工具 API 解析/image-20240806145007781.png",
-    "面试相关/项目经历 - 售后项目.md",
+    "工程化/Docker/问题/Assets/问题收集/image-20240809161640308.png",
+    "工程化/Docker/问题/Assets/问题收集",
+    "工程化/Docker/问题/Assets",
+    "浏览器/⭐生产环境中解决跨域的方法.md",
+    "工程化/Docker/问题/问题收集.md",
+    "工程化/Docker/未命名.md",
+    "工程化/Docker/问题",
+    "虚拟主机.md",
+    "浏览器/Assets/⭐生产环境中解决跨域的方法/image-20240809161250413.png",
+    "浏览器/Assets/⭐生产环境中解决跨域的方法/image-20240809161102593.png",
+    "浏览器/Assets/⭐生产环境中解决跨域的方法",
+    "服务端/Nginx/Nginx 常用命令学习.md",
+    "服务端/Nginx/Nginx 常用配置学习.md",
+    "我的简历/笔记.md",
+    "题目汇总/哲玄-大前端面试宝典/Javascript题目/83. ❌问题 ES6 的集成和 ES5 继承的区别.md",
+    "计算机网络/HTTP/为什么 HTTPS 比 HTTP 安全.md",
+    "计算机网络/计算机网络-Index.md",
+    "计算机网络/OSI 网络模型.md",
+    "认证相关/Oath2 之授权码模式流程及 FQA.md",
+    "题目汇总/哲玄-大前端面试宝典/Javascript题目/84. ❌问题 Promise.md",
+    "题目汇总/哲玄-大前端面试宝典/Javascript题目/62. ❌问题 元素拖动的实现方案.md",
+    "题目汇总/哲玄-大前端面试宝典/Javascript题目/61. ✅问题 DOM 事件模型.md",
+    "题目汇总/哲玄-大前端面试宝典/Javascript题目/53. ✅问题 事件循环进阶 （1）.md",
+    "认证相关/JWT 详解.md",
     "面试相关/项目经历 - NestJS 开发 BFF.md",
     "面试相关/项目经历-AI聊天项目.md",
+    "面试相关/项目经历-微前端.md",
+    "计算机网络/HTTP/HTTP 缓存机制.md",
+    "计算机网络/HTTP/Http1.0、Htpp1.1、Http2、Http3？.md",
+    "计算机网络/HTTP/HTTPS 加密流程.md",
+    "计算机网络/HTTP/SSL 或者 TLS 握手流程.md",
+    "计算机网络/WebScoket/WebScoket 概览.md",
+    "计算机网络/Assets/OSI 网络模型/image-20240808172620963.png",
+    "计算机网络/Assets/OSI 网络模型/image-20240808172521655.png",
+    "计算机网络/Assets/OSI 网络模型",
+    "计算机网络/Assets",
+    "计算机网络/HTTP/Assets/为什么 HTTPS 比 HTTP 安全/image-20240808172402567.png",
+    "计算机网络/HTTP/Assets/为什么 HTTPS 比 HTTP 安全",
+    "浏览器/Assets/HTTP1.1 持久连接/image-20240808165112096.png",
+    "浏览器/Assets/HTTP1.1 持久连接/image-20240808164806987.png",
+    "浏览器/Assets/HTTP1.1 持久连接",
+    "浏览器/Assets",
+    "Vue/Vue3/Assets/Vue3 快速 Diff 算法/image-20240807230408661.png",
+    "Vue/Vue3/Assets/Vue3 快速 Diff 算法/image-20240807225939747.png",
+    "Vue/Vue3/Assets/Vue3 快速 Diff 算法/image-20240807225824898.png",
+    "Vue/Vue3/Assets/Vue3 快速 Diff 算法",
     "关于优化/未命名.canvas",
     "未命名.canvas"
   ]

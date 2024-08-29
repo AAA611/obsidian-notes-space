@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务端/Nginx/Nginx 常用配置学习.md",
+                "file": "TS/tsconfig.json配置学习/compilerOptions.target.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91097df1574cfb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工程化/Webpack/Webpack 遇到的问题/Assets/问题一、关于使用 Webpack 打包出来的 module 模块无法被 rollup 正常 tree shaking 问题。/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工程化/Docker/问题/问题收集.md",
+                "file": "工程化/Webpack/优化/Webpack 优化之增量编译.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2c93daaecc75914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工程化/Webpack/Webpack 之 pitch loader.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工程化/Docker/问题/问题收集.md",
+                "file": "TS/tsconfig.json配置学习/compilerOptions.target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工程化/Docker/问题/问题收集.md",
+                "file": "TS/tsconfig.json配置学习/compilerOptions.target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工程化/Docker/问题/问题收集.md"
+                "file": "TS/tsconfig.json配置学习/compilerOptions.target.md"
               }
             }
           }
@@ -172,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,58 +210,56 @@
       "obsidian-file-cleaner:清理文件": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "30a3481c3bf15957",
+  "active": "d20bcb1c72775efc",
   "lastOpenFiles": [
-    "工程化/Docker/问题/Assets/问题收集/image-20240809161640308.png",
-    "工程化/Docker/问题/Assets/问题收集",
-    "工程化/Docker/问题/Assets",
-    "浏览器/⭐生产环境中解决跨域的方法.md",
-    "工程化/Docker/问题/问题收集.md",
-    "工程化/Docker/未命名.md",
-    "工程化/Docker/问题",
-    "虚拟主机.md",
-    "浏览器/Assets/⭐生产环境中解决跨域的方法/image-20240809161250413.png",
-    "浏览器/Assets/⭐生产环境中解决跨域的方法/image-20240809161102593.png",
-    "浏览器/Assets/⭐生产环境中解决跨域的方法",
-    "服务端/Nginx/Nginx 常用命令学习.md",
-    "服务端/Nginx/Nginx 常用配置学习.md",
-    "我的简历/笔记.md",
-    "题目汇总/哲玄-大前端面试宝典/Javascript题目/83. ❌问题 ES6 的集成和 ES5 继承的区别.md",
-    "计算机网络/HTTP/为什么 HTTPS 比 HTTP 安全.md",
-    "计算机网络/计算机网络-Index.md",
-    "计算机网络/OSI 网络模型.md",
-    "认证相关/Oath2 之授权码模式流程及 FQA.md",
-    "题目汇总/哲玄-大前端面试宝典/Javascript题目/84. ❌问题 Promise.md",
-    "题目汇总/哲玄-大前端面试宝典/Javascript题目/62. ❌问题 元素拖动的实现方案.md",
-    "题目汇总/哲玄-大前端面试宝典/Javascript题目/61. ✅问题 DOM 事件模型.md",
-    "题目汇总/哲玄-大前端面试宝典/Javascript题目/53. ✅问题 事件循环进阶 （1）.md",
-    "认证相关/JWT 详解.md",
-    "面试相关/项目经历 - NestJS 开发 BFF.md",
-    "面试相关/项目经历-AI聊天项目.md",
-    "面试相关/项目经历-微前端.md",
-    "计算机网络/HTTP/HTTP 缓存机制.md",
-    "计算机网络/HTTP/Http1.0、Htpp1.1、Http2、Http3？.md",
-    "计算机网络/HTTP/HTTPS 加密流程.md",
-    "计算机网络/HTTP/SSL 或者 TLS 握手流程.md",
-    "计算机网络/WebScoket/WebScoket 概览.md",
-    "计算机网络/Assets/OSI 网络模型/image-20240808172620963.png",
-    "计算机网络/Assets/OSI 网络模型/image-20240808172521655.png",
-    "计算机网络/Assets/OSI 网络模型",
-    "计算机网络/Assets",
-    "计算机网络/HTTP/Assets/为什么 HTTPS 比 HTTP 安全/image-20240808172402567.png",
-    "计算机网络/HTTP/Assets/为什么 HTTPS 比 HTTP 安全",
-    "浏览器/Assets/HTTP1.1 持久连接/image-20240808165112096.png",
-    "浏览器/Assets/HTTP1.1 持久连接/image-20240808164806987.png",
-    "浏览器/Assets/HTTP1.1 持久连接",
-    "浏览器/Assets",
-    "Vue/Vue3/Assets/Vue3 快速 Diff 算法/image-20240807230408661.png",
-    "Vue/Vue3/Assets/Vue3 快速 Diff 算法/image-20240807225939747.png",
-    "Vue/Vue3/Assets/Vue3 快速 Diff 算法/image-20240807225824898.png",
-    "Vue/Vue3/Assets/Vue3 快速 Diff 算法",
+    "TS/tsconfig.json配置学习/📘索引-Index.md",
+    "TS/tsconfig.json配置学习/compilerOptions.target.md",
+    "TS/tsconfig.json配置学习/未命名",
+    "工程化/测试/❌关于测试的一些概念.md",
+    "TS/tsconfig.json配置学习",
+    "TS/未命名.md",
+    "TS",
+    "工程化/测试/Assets/❌关于测试的一些概念/image-20240829171857951.png",
+    "工程化/测试/Assets/❌关于测试的一些概念",
+    "工程化/测试/Assets",
+    "工程化/模块是如何解决循环依赖的？.md",
+    "工程化/Webpack/❌Webpack 中的 hash.md",
+    "工程化/测试",
+    "浏览器/关于标签上的 crossorigin 属性.md",
+    "浏览器/❌ServiceWorker 学习笔记.md",
+    "浏览器/浏览器的缓存等级.md",
+    "浏览器/Assets/浏览器的缓存等级/image-20240827150104976.png",
+    "浏览器/Assets/浏览器的缓存等级/image-20240827150001199.png",
+    "浏览器/Assets/浏览器的缓存等级/image-20240827145740841.png",
+    "浏览器/Assets/浏览器的缓存等级/image-20240827145434200.png",
+    "浏览器/Assets/浏览器的缓存等级",
+    "写作/README.md",
+    "工程化/Webpack/Webpack 遇到的问题/问题一、关于使用 Webpack 打包出来的 module 模块无法被 rollup 正常 tree shaking 问题。.md",
+    "工程化/Webpack/Webpack 之 pitch loader.md",
+    "工程化/Webpack/Webpack 遇到的问题/Assets/问题一、关于使用 Webpack 打包出来的 module 模块无法被 rollup 正常 tree shaking 问题。/README.md",
+    "工程化/Webpack/Webpack 遇到的问题/Assets/问题一、关于使用 Webpack 打包出来的 module 模块无法被 rollup 正常 tree shaking 问题。",
+    "工程化/Webpack/Webpack 遇到的问题/Assets",
+    "工程化/Tree-Shaking.md",
+    "工程化/Webpack/Webpack 遇到的问题",
+    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之 【output.target】.md",
+    "工程化/Webpack/Webpack 配置学习笔记/exports.md",
+    "工程化/Webpack/Webpack 配置学习笔记/resolve.alias.md",
+    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之【output.publicPath】.md",
+    "工程化/Webpack/Webpack 配置学习笔记/Webpack 配置之 externals.md",
+    "工程化/如何实现多个应用之间共享（组件、逻辑）？.md",
+    "工程化/semver 语义化版本号.md",
+    "工程化/window、self、global、globalThis 傻傻分不清楚.md",
+    "工程化/一些关于 TS 编译相关的知识.md",
+    "Vue/Vue2 与 Vue3 有什么区别.md",
+    "工程化/Webpack/未命名.md",
+    "工程化/Webpack/Assets/Webpack 是如何打包 ESM 的？/image-20240823104632555.png",
+    "工程化/Webpack/Webpack 配置学习笔记/optimization-优化类配置/Assets/optimization.runtimeChunk/image-20240823095126965.png",
+    "React/React学习笔记/Assets/2024-8-17 笔记/image-20240817174049667.png",
+    "React/React学习笔记/Assets/2024-8-17 笔记/image-20240817173931463.png",
+    "React/React学习笔记/Assets/2024-8-17 笔记/image-20240817172842278.png",
     "关于优化/未命名.canvas",
     "未命名.canvas"
   ]

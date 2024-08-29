@@ -1,3 +1,6 @@
+
+<mark style="background: #FF5582A6;">TODO：自己验证实践</mark>
+
 ## 为什么需要 hash
 
 在 webpack 中，`hash` 值通常作为打包产物名称的一部分，**这样做是为了利用浏览器的缓存机制**。

@@ -17,4 +17,6 @@
 
 注意，如果编译的目标版本过老，比如：`target:es3`，有些语法可能无法编译，`tsc` 命令会报错。
 
+> 注意：tsc 编译并没有采用 Bable 来做的
+
 参考：[tsconfig.json - TypeScript 教程 - 网道](https://wangdoc.com/typescript/tsconfig.json#target)

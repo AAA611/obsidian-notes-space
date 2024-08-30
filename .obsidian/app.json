@@ -3,6 +3,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "spellcheck": false,
-  "attachmentFolderPath": "./Assets/compilerOptions.target",
+  "attachmentFolderPath": "./Assets/谈谈 Vue2 中的 diff 算法",
   "alwaysUpdateLinks": true
 }

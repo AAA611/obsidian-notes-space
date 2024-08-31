@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vue2/谈谈 Vue2 中的 diff 算法.md",
+                "file": "浏览器/❌深入理解关键渲染路径.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Vue2/谈谈 Vue2 中的 diff 算法.md",
+                "file": "浏览器/❌深入理解关键渲染路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Vue2/谈谈 Vue2 中的 diff 算法.md",
+                "file": "浏览器/❌深入理解关键渲染路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Vue2/谈谈 Vue2 中的 diff 算法.md"
+                "file": "浏览器/❌深入理解关键渲染路径.md"
               }
             }
           }
@@ -210,13 +210,39 @@
       "obsidian-file-cleaner:清理文件": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d20bcb1c72775efc",
+  "active": "931b6c1251bccc30",
   "lastOpenFiles": [
-    "数据结构与算法/算法/排序/⭐关于排序的复杂度与稳定性.md",
+    "Scripts/bin/nodes/3125673.md",
+    "Scripts/bin/nodes/❌1 copy 7.md",
+    "Scripts/bin/nodes/❌1 copy 6.md",
+    "Scripts/bin/nodes/❌1 copy 5.md",
+    "Scripts/bin/nodes/❌1 copy 4.md",
+    "Scripts/bin/nodes/❌1 copy 3.md",
+    "Scripts/bin/nodes/❌1 copy 2.md",
+    "Scripts/bin/nodes/❌1 copy.md",
+    "Scripts/bin/nodes/❌1.md",
+    "Scripts/bin/index.md",
+    "Scripts/bin/nodes/❌243yui23.md",
+    "Scripts/bin/❌3123.md",
+    "Scripts/bin/nodes",
+    "Scripts/package.json",
+    "Scripts/bin/findUnCompleteArticle.js",
+    "Scripts/bin",
+    "Scripts",
+    "工程化/Webpack/❌自己实现一个简单的 CJS 模块加载器.md",
+    "浏览器/❌深入理解关键渲染路径.md",
+    "工程化/Webpack/Webpack 产物结构分析.md",
+    "工程化/__esModule 到底有什么用？.md",
+    "Vue/Vue Router 原理简要分析.md",
+    "Vue/Vue Diff 中 Key 的作用.md",
+    "Vue/Vue 渲染流程概览.md",
+    "Vue/Vue - Index.md",
     "Vue/Vue2/谈谈 Vue2 中的 diff 算法.md",
+    "数据结构与算法/算法/排序/⭐关于排序的复杂度与稳定性.md",
     "Vue/Vue2",
     "数据结构与算法/算法/排序/Assets/⭐关于排序的复杂度与稳定性/image-20240830110152723.png",
     "数据结构与算法/算法/排序/Assets/⭐关于排序的复杂度与稳定性/image-20240830110140715.png",
@@ -226,38 +252,13 @@
     "工程化/测试/Jest学习/Jest 中测试异步代码.md",
     "工程化/测试/Jest学习/Jest 中使用匹配器.md",
     "工程化/测试/Jest学习/❌Jest 中的模拟函数.md",
-    "工程化/测试/Jest学习/未命名.md",
-    "浏览器/浏览器的多进程架构.md",
     "工程化/测试/Jest学习",
-    "浏览器/浏览器中的 GUP 加速.md",
-    "浏览器/DOMContentLoaded 与 load 事件的触发时机.md",
-    "浏览器/HTTP1.1 持久连接.md",
-    "浏览器/Life of a frame.md",
-    "浏览器/避免强制布局.md",
-    "浏览器/关于标签上的 crossorigin 属性.md",
-    "浏览器/关于重排于重绘.md",
-    "浏览器/浏览器的缓存等级.md",
-    "浏览器/浏览器中的 Event Loop.md",
-    "TS/tsconfig.json配置学习/compilerOptions.target.md",
-    "TS/tsconfig.json配置学习/📘索引-Index.md",
     "TS/tsconfig.json配置学习/未命名",
-    "工程化/测试/❌关于测试的一些概念.md",
-    "TS/tsconfig.json配置学习",
-    "TS/未命名.md",
-    "TS",
     "工程化/测试/Assets/❌关于测试的一些概念/image-20240829171857951.png",
-    "工程化/测试/Assets/❌关于测试的一些概念",
-    "工程化/测试/Assets",
-    "工程化/模块是如何解决循环依赖的？.md",
-    "工程化/Webpack/❌Webpack 中的 hash.md",
-    "工程化/测试",
-    "浏览器/❌ServiceWorker 学习笔记.md",
     "浏览器/Assets/浏览器的缓存等级/image-20240827150104976.png",
     "浏览器/Assets/浏览器的缓存等级/image-20240827150001199.png",
     "浏览器/Assets/浏览器的缓存等级/image-20240827145740841.png",
     "浏览器/Assets/浏览器的缓存等级/image-20240827145434200.png",
-    "写作/README.md",
-    "工程化/Webpack/Webpack 遇到的问题/问题一、关于使用 Webpack 打包出来的 module 模块无法被 rollup 正常 tree shaking 问题。.md",
     "工程化/Webpack/Assets/Webpack 是如何打包 ESM 的？/image-20240823104632555.png",
     "工程化/Webpack/Webpack 配置学习笔记/optimization-优化类配置/Assets/optimization.runtimeChunk/image-20240823095126965.png",
     "React/React学习笔记/Assets/2024-8-17 笔记/image-20240817174049667.png",

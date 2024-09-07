@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d20bcb1c72775efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "浏览器/❌深入理解关键渲染路径.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "91097df1574cfb77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工程化/Webpack/Webpack 遇到的问题/Assets/问题一、关于使用 Webpack 打包出来的 module 模块无法被 rollup 正常 tree shaking 问题。/README.md",
+                "file": "服务端/Node/Node 中的 --experimental-vm-modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工程化/Webpack/优化/Webpack 优化之增量编译.md",
+                "file": "Vue/Vue3/Vue3 中 watch 与 watchEffect 有什么区别？.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "668fc77a0c877e5c",
@@ -146,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浏览器/❌深入理解关键渲染路径.md",
+                "file": "Vue/Vue3/Vue3 中 watch 与 watchEffect 有什么区别？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浏览器/❌深入理解关键渲染路径.md",
+                "file": "Vue/Vue3/Vue3 中 watch 与 watchEffect 有什么区别？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浏览器/❌深入理解关键渲染路径.md"
+                "file": "Vue/Vue3/Vue3 中 watch 与 watchEffect 有什么区别？.md"
               }
             }
           }
@@ -210,50 +199,51 @@
       "obsidian-file-cleaner:清理文件": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "card-board:CardBoard": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "931b6c1251bccc30",
+  "active": "30a3481c3bf15957",
   "lastOpenFiles": [
-    "Scripts/bin/nodes/3125673.md",
-    "Scripts/bin/nodes/❌1 copy 7.md",
-    "Scripts/bin/nodes/❌1 copy 6.md",
-    "Scripts/bin/nodes/❌1 copy 5.md",
-    "Scripts/bin/nodes/❌1 copy 4.md",
-    "Scripts/bin/nodes/❌1 copy 3.md",
-    "Scripts/bin/nodes/❌1 copy 2.md",
-    "Scripts/bin/nodes/❌1 copy.md",
-    "Scripts/bin/nodes/❌1.md",
-    "Scripts/bin/index.md",
-    "Scripts/bin/nodes/❌243yui23.md",
-    "Scripts/bin/❌3123.md",
+    "Vue/Vue3/Vue3 快速 Diff 算法.md",
+    "我的简历/简历-王冬冬.pdf",
+    "Vue/Vue3/❌Vue3.5 都更新了什么？整理？.md",
+    "服务端/Node/Node 中的事件循环.md",
+    "服务端/Node/Node 是如何实现异步的？.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 样式隔离.md",
+    "工程化/微前端/qiankun-乾坤/qiankun JS 沙箱.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 面试问题汇总.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 核心流程分析之 registerMicroApp.md",
+    "工程化/微前端/qiankun-乾坤/为什么不是 iframe.md",
+    "工程化/微前端/single-spa/single-spa原理之路由处理.md",
+    "工程化/微前端/single-spa/single-spa 源码架构.md",
+    "工程化/微前端/single-spa/single-spa 入门.md",
+    "工程化/微前端/single-spa/single-spa 概览.md",
+    "工程化/微前端/微前端.md",
+    "工程化/微前端/微前端 - Index.md",
+    "工程化/如何在项目中使用 polyfill？.md",
+    "工程化/CI和CD/【美团技术文章】Jenkins 的 Pipeline 脚本在美团餐饮 SaaS 中的实践.md",
+    "工程化/代码规范/【美团技术文章】ESLint 在中大型项目中的实践.md",
+    "工程化/CI和CD",
+    "计算机网络/CDN/关于美团的 CDN 容灾方案.md",
+    "工程化/代码规范",
+    "浏览器/IndexDB学习笔记/什么是事务？.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 应用间通信.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 与 single-spa 的简单比较.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 原理之 import-html-entry.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 预加载.md",
+    "工程化/微前端/qiankun-乾坤/qiankun 中那些生命周期.md",
+    "工程化/微前端/qiankun-乾坤/qiankun（微前端）快问快答.md",
+    "我的简历/我的简历-4.0.pdf",
+    "我的简历/我的简历-iEfhcm (6).pdf",
+    "工程化/测试/Jest学习/Assets/Jest 快照测试/image-20240903170121370.png",
+    "工程化/测试/Jest学习/Assets/Jest 快照测试",
+    "工程化/测试/Jest学习/Assets",
+    "我的简历/我的简历-3.0.pdf",
+    "Scripts/bin/nodes/others",
     "Scripts/bin/nodes",
-    "Scripts/package.json",
-    "Scripts/bin/findUnCompleteArticle.js",
-    "Scripts/bin",
-    "Scripts",
-    "工程化/Webpack/❌自己实现一个简单的 CJS 模块加载器.md",
-    "浏览器/❌深入理解关键渲染路径.md",
-    "工程化/Webpack/Webpack 产物结构分析.md",
-    "工程化/__esModule 到底有什么用？.md",
-    "Vue/Vue Router 原理简要分析.md",
-    "Vue/Vue Diff 中 Key 的作用.md",
-    "Vue/Vue 渲染流程概览.md",
-    "Vue/Vue - Index.md",
-    "Vue/Vue2/谈谈 Vue2 中的 diff 算法.md",
-    "数据结构与算法/算法/排序/⭐关于排序的复杂度与稳定性.md",
-    "Vue/Vue2",
     "数据结构与算法/算法/排序/Assets/⭐关于排序的复杂度与稳定性/image-20240830110152723.png",
     "数据结构与算法/算法/排序/Assets/⭐关于排序的复杂度与稳定性/image-20240830110140715.png",
-    "数据结构与算法/算法/排序/Assets/⭐关于排序的复杂度与稳定性",
-    "数据结构与算法/算法/排序/Assets",
-    "工程化/测试/Jest学习/❌Jest 中的安装和卸载.md",
-    "工程化/测试/Jest学习/Jest 中测试异步代码.md",
-    "工程化/测试/Jest学习/Jest 中使用匹配器.md",
-    "工程化/测试/Jest学习/❌Jest 中的模拟函数.md",
-    "工程化/测试/Jest学习",
-    "TS/tsconfig.json配置学习/未命名",
     "工程化/测试/Assets/❌关于测试的一些概念/image-20240829171857951.png",
     "浏览器/Assets/浏览器的缓存等级/image-20240827150104976.png",
     "浏览器/Assets/浏览器的缓存等级/image-20240827150001199.png",
@@ -261,7 +251,6 @@
     "浏览器/Assets/浏览器的缓存等级/image-20240827145434200.png",
     "工程化/Webpack/Assets/Webpack 是如何打包 ESM 的？/image-20240823104632555.png",
     "工程化/Webpack/Webpack 配置学习笔记/optimization-优化类配置/Assets/optimization.runtimeChunk/image-20240823095126965.png",
-    "React/React学习笔记/Assets/2024-8-17 笔记/image-20240817174049667.png",
     "关于优化/未命名.canvas",
     "未命名.canvas"
   ]
